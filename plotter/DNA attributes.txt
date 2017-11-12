@@ -1,0 +1,11 @@
+A =  speed > 10
+a =  speed < 10
+
+B =  size > 10
+b = size < 10
+
+C = intelligence > 10
+c = intelligence < 10
+
+D = aggression > 10 
+d = aggression < 10
